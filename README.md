@@ -1,3 +1,4 @@
 # Python_Basics
-These are the codes that I learnt while learning python.
-The programs are from a course so if you want to learn you can have a look at the programs day wise.
+These codes are the basics  of python which I practiced. 
+Python is a very vast language so there is much more other than these codes.
+These programs are just to see a glimpse of python.
